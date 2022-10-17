@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Todo_App_2022.git/static/css/main.71640b60.css",
+    "main.js": "/Todo_App_2022.git/static/js/main.d586b032.js",
+    "index.html": "/Todo_App_2022.git/index.html",
+    "main.71640b60.css.map": "/Todo_App_2022.git/static/css/main.71640b60.css.map",
+    "main.d586b032.js.map": "/Todo_App_2022.git/static/js/main.d586b032.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71640b60.css",
+    "static/js/main.d586b032.js"
+  ]
+}
